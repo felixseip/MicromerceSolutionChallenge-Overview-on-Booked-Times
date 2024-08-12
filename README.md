@@ -3,6 +3,10 @@ To run this code:
 - `npm install` or `yarn`
 - `npm run start` or `yarn start`
 
+The relevant files in the src folder to work with are:
+- table-script.tsx -> contains the relevant code for preparing and displaying the data
+- source-data.json -> contains all the relevant data needed for the exercise
+
 ### User Story 📖
 
 As a project manager, I want an aggregation feature that collects and sums booked time data for different Jira tickets, so I can easily track the total time spent on each ticket, even when there are multiple time bookings by multiple employees.
